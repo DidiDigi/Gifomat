@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gifomat</string>
+    <string name="title_activity_tag">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_tag">Tag</string>
+    <string name="action_go">GO!</string>
+    <string name="error_invalid_tag">This tag is invalid</string>
+    <string name="error_field_required">This field is required</string>
+</resources>
